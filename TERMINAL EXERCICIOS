@@ -1,0 +1,22 @@
+Sistemas Operacionais
+
+Exercícios Terminal "SOP"
+
+1e. nome=”Fernando Buzzi”; echo $nome
+2e. echo ”Fernando Buzzi” > cliente01.txt
+3e. echo “ Guaramirin” >> cliente01.txt
+4e. mkdir clientes e cd clientes 
+5e. mv cliente01.txt clientes
+6e. cp cliente01.txt cliente01.txt.bkp
+7e. rm cliente01.txt
+8e. vi cliente.script
+9e. chmod x cliente.script
+10e. Exibe o calendário proximo exibe comando e adicionou o dia de hoje no calendário ao texto hoje.txt
+11e. wget https://gist.githubusercontent.com/leandersonandre/c8cba982f42262591be628e5397d1c3f/raw/bd13a3e13823708e477f99f9285f845b292714c6/cidades_sc.txt
+12e. Exibe as ocorrências que existem no texto com a palavra Balneario
+13e. Ele não encontra nenhuma ocorrência
+14e. Exibe as ocorrências que existem no texto com o termo "do Sul"
+15e. cat cidades_sc.txt | grep Balneario
+16e. cat cidades_sc.txt | grep Balneario > balneario.txt
+17e. tar -cvf compactado.tar balneario.txt
+18e. tar -xvf compactado.tar
